@@ -44,7 +44,7 @@ pip install dist/src.0.0.1.tar.gz
 now create a ```.env ``` file and specify the parameters
 
 ```
-TELEGRAM_BOT_API_TOKEN=6361346727:AAHuCxUDjrxxmDJOXko-zDKGKnT4UacgJwU
+TELEGRAM_BOT_API_TOKEN=<your_api_tokem>
 BOT_USERNAME=@Farmers2Bot
 BHASINI_USERID=<your user id>
 BHASINI_API_KEY=<your api key>
